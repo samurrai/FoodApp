@@ -1,0 +1,14 @@
+Name            Calories        Kitchen          Hours
+-----------------------------------------------------------
+Compote       50        russian     1
+
+Pankakes       200        russian     0.5
+
+Borsch       250        ukrain     2
+
+Pilaf       290        ukrain     2
+
+FreshSoup       300        russian     1
+
+Filadelfia       350        ukrain     1.5
+

@@ -1,0 +1,7 @@
+Pankakes 200 0 0.5
+FreshSoup 300 0 1
+Compote 50 0 1
+Filadelfia 350 1 1.5
+Pilaf 290 2 2
+Borsch 250 3 2
+Jelly 300 3 4

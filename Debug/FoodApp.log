@@ -1,0 +1,4 @@
+﻿  FoodApp.cpp
+c:\users\user\source\repos\foodapp\foodapp\foodapp.cpp(48): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\foodapp\foodapp\foodapp.cpp(79): warning C4018: <: несоответствие типов со знаком и без знака
+  FoodApp.vcxproj -> C:\Users\User\source\repos\FoodApp\Debug\FoodApp.exe
